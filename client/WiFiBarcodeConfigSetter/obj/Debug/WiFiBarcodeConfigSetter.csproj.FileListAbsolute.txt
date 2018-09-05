@@ -1,0 +1,22 @@
+C:\Users\min\documents\visual studio 2015\Projects\SheetsSample\WiFiBarcodeConfigSetter\bin\Debug\WiFiBarcodeConfigSetter.exe.config
+C:\Users\min\documents\visual studio 2015\Projects\SheetsSample\WiFiBarcodeConfigSetter\bin\Debug\WiFiBarcodeConfigSetter.exe
+C:\Users\min\documents\visual studio 2015\Projects\SheetsSample\WiFiBarcodeConfigSetter\bin\Debug\WiFiBarcodeConfigSetter.pdb
+C:\Users\min\documents\visual studio 2015\Projects\SheetsSample\WiFiBarcodeConfigSetter\obj\Debug\WiFiBarcodeConfigSetter.csprojResolveAssemblyReference.cache
+C:\Users\min\documents\visual studio 2015\Projects\SheetsSample\WiFiBarcodeConfigSetter\obj\Debug\WiFiBarcodeConfigSetter.Form1.resources
+C:\Users\min\documents\visual studio 2015\Projects\SheetsSample\WiFiBarcodeConfigSetter\obj\Debug\WiFiBarcodeConfigSetter.Properties.Resources.resources
+C:\Users\min\documents\visual studio 2015\Projects\SheetsSample\WiFiBarcodeConfigSetter\obj\Debug\WiFiBarcodeConfigSetter.csproj.GenerateResource.Cache
+C:\Users\min\documents\visual studio 2015\Projects\SheetsSample\WiFiBarcodeConfigSetter\obj\Debug\WiFiBarcodeConfigSetter.exe
+C:\Users\min\documents\visual studio 2015\Projects\SheetsSample\WiFiBarcodeConfigSetter\obj\Debug\WiFiBarcodeConfigSetter.pdb
+C:\Users\min\documents\visual studio 2015\Projects\SheetsSample\WiFiBarcodeConfigSetter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\min\documents\visual studio 2015\Projects\SheetsSample\WiFiBarcodeConfigSetter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\min\Source\Repos\WiFi-Arduino-Barcode-experimental-\client\WiFiBarcodeConfigSetter\bin\Debug\WiFiBarcodeConfigSetter.exe.config
+C:\Users\min\Source\Repos\WiFi-Arduino-Barcode-experimental-\client\WiFiBarcodeConfigSetter\obj\Debug\WiFiBarcodeConfigSetter.exe
+C:\Users\min\Source\Repos\WiFi-Arduino-Barcode-experimental-\client\WiFiBarcodeConfigSetter\obj\Debug\WiFiBarcodeConfigSetter.pdb
+C:\Users\min\Source\Repos\WiFi-Arduino-Barcode-experimental-\client\WiFiBarcodeConfigSetter\bin\Debug\WiFiBarcodeConfigSetter.exe
+C:\Users\min\Source\Repos\WiFi-Arduino-Barcode-experimental-\client\WiFiBarcodeConfigSetter\bin\Debug\WiFiBarcodeConfigSetter.pdb
+C:\Users\min\Source\Repos\WiFi-Arduino-Barcode-experimental-\client\WiFiBarcodeConfigSetter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\min\Source\Repos\WiFi-Arduino-Barcode-experimental-\client\WiFiBarcodeConfigSetter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\min\Source\Repos\WiFi-Arduino-Barcode-experimental-\client\WiFiBarcodeConfigSetter\obj\Debug\WiFiBarcodeConfigSetter.csprojResolveAssemblyReference.cache
+C:\Users\min\Source\Repos\WiFi-Arduino-Barcode-experimental-\client\WiFiBarcodeConfigSetter\obj\Debug\WiFiBarcodeConfigSetter.Form1.resources
+C:\Users\min\Source\Repos\WiFi-Arduino-Barcode-experimental-\client\WiFiBarcodeConfigSetter\obj\Debug\WiFiBarcodeConfigSetter.Properties.Resources.resources
+C:\Users\min\Source\Repos\WiFi-Arduino-Barcode-experimental-\client\WiFiBarcodeConfigSetter\obj\Debug\WiFiBarcodeConfigSetter.csproj.GenerateResource.Cache

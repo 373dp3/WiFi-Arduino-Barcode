@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Test Tools
+Implementation-Version: 1.0
+Main-Class: jp.dp3.kota.sheets.BootStub
+
